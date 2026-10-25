@@ -1,0 +1,7 @@
+node_modules/
+.pnpm-store/
+.tools/
+.data/
+.browser-profile/
+.edge-*/
+*.log
